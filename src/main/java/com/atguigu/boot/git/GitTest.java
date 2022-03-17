@@ -18,6 +18,7 @@ public class GitTest {
         System.out.println("pull test1");
         System.out.println("push sb");
         System.out.println("push sbsbsbsbsb");
-        System.out.println("");
+        System.out.println("999");
+        System.out.println("push 3333");
     }
 }
