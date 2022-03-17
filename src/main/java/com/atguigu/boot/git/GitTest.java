@@ -12,5 +12,6 @@ package com.atguigu.boot.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("sbsbsbsbsb");
+        System.out.println("sbsbsbsbsb2");
     }
 }
